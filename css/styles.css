@@ -24,7 +24,7 @@ body {
 		font-family: "Poppins", sans-serif;
 		background-repeat: no-repeat;
 		background-size: cover;
-		background-image: url("/huddle-landing-page-with-single-introductory-section-master/");
+		background-image: url("/images/bg-mobile.svg");
 		margin: auto;
 		max-width: 768px;
 	}
